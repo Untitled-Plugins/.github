@@ -8,7 +8,7 @@ ecosystem that keeps your server- er hive, alive, safe, and fun.
 
 Honeycomb – The foundation of the hive. Without it, the Bee Suite has no structure. Think of it as the wax that keeps everything together!
 
-HoneyGuard – Guards your honey with the efficiency of a hexagon! Protects blocks, ores, and regions from griefers or sneaky bees (players) trying to steal what’s yours.
+HoneyGuard – Guards your honey with the efficiency of a hexagon! Protects blocks, ores, and spawn regions from griefers or sneaky bees (players) trying to steal what’s yours.
 
 PollenEnforcer – The hive’s disciplinary swarm. Tempbans, jails, and IP bans—punishment delivered with sting precision.
 
